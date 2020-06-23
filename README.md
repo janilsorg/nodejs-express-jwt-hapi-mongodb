@@ -29,6 +29,7 @@ TOKEN_SECRET = <seu_token_secret>
 
 ### Para desenvolvimento executa
 <p>Esse script já reinicia o serviço a cada modificação feita</p>
+
 ```
 npm run dev
 ```
